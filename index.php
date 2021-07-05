@@ -9,7 +9,7 @@
             <div class="banner-caption">
                 <div class="content" data-aos="fade-up" data-aos-duration="2000">
                     <h2 class="fadeIn"></h2>
-                    <a href="g-I-electrode.php" class="read-more">Read More</a>
+                    <a href="#" class="read-more">Read More</a>
                 </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
             <div class="banner-caption">
                 <div class="content" data-aos="fade-up" data-aos-duration="2000">
                     <h2 class="fadeIn"></h2>
-                    <a href="products.php" class="read-more">Read More</a>
+                    <a href="#" class="read-more">Read More</a>
                 </div>
             </div>
         </div>
